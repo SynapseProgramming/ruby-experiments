@@ -22,6 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+#Common commands
+* run the server -> bin/rails server
 ## Core concepts
 1. route
 2. controller with action
