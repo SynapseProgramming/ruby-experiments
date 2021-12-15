@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+## Core concepts
+1. route
+2. controller with action
+3. view
+* route maps request to controller with action.
+* controller actions performs the work
+* view displays data in desired format
